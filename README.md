@@ -22,12 +22,12 @@
 ## UPDATE
 |  Name              |      Version                              |
 | -------------      | ----------------------------------------- |
-| Removed `SoundCloud,Spotify,Youtube API`          | 0.1 ✔️                       |
+| Removed `SoundCloud,Spotify,Youtube API`          | 0.1 ❌                       |
 | Added `Shard`      | 0.11 Full ✔️   |
 | Added Setup `Command`            | 0.1.1 ✔️              |
-| Added `Ksoft Api`       | 0.1.2 ✔️            |
-| Added `Anti Crash When The command Broken`            | 1.0 ✔️ Full        |
-| Soon               | Soon                 |
+| Removed `Leveling Up System`       | 0.1.2 ❌            |
+| Added `Anti Crash When The command Broken`            | 1.0 Full ✔️         |
+| Removed `Music System`               | ❌                 |
 | Soon             | Soon                     |
 | Soon             | Soon                 |
 | Soon            | Soon              |
