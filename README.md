@@ -27,4 +27,5 @@ Makoto is a multipurpose bot, You can Use over 100+ Command's With 8 Category Th
 🔨┃Utility
 
 🚩|Report
+
 • **Makoto Just removed The music system its because Againts discord API Soo We remove it!**
