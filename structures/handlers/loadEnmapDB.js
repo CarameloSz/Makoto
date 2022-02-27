@@ -21,11 +21,3 @@ module.exports = async (client) => {
 
     client.logger(`Loaded EnmapDB`.brightGreen);
 }
-
-/**
- * @INFO
- * Bot Coded by Zedro#2742 | https://discord.gg/8fYUFxMtAq
- * @INFO
- * Work for Milanio Development | https://discord.gg/8fYUFxMtAq
- * @INFO
- */
