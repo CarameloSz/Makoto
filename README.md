@@ -17,3 +17,21 @@
   
 
 
+<br />
+
+## UPDATE
+|  Name              |      Version                              |
+| -------------      | ----------------------------------------- |
+| Removed `SoundCloud,Spotify,Youtube API`          | 0.1 ✔️                       |
+| Added `Shard`      | 0.11 Alpha ✔️   |
+| Added Setup `Command`            | 0.1.1 ✔️              |
+| Added `Ksoft Api`       | 0.1.2 ✔️            |
+| Added New `Lavalink Port`            | 1.0 ✔️ Beta        |
+| Soon               | Soon                 |
+| Soon             | Soon                     |
+| Soon             | Soon                 |
+| Soon            | Soon              |
+| Soon            | Soon        |
+
+
+<br />
