@@ -1,31 +1,33 @@
-# Makoto
-Makoto is a multipurpose bot, You can Use over 100+ Command's With 8 Category This bot based On MongoDB For database
+# Milanio
 
-• I Just started making Makoto From august 2021 
+## [**DISCORD SUPPORT SERVER INVITE**](https://dsc.gg/milanio.dev)
+> 💪 **Host on Repit:** [**Repl.it Fork**](https://replit.com/@Zedro2742/Milanio)
 
-![Screenshoot](https://media.discordapp.net/attachments/917654949637259264/947372211109503026/unknown.png?width=528&height=433)
+## Installation | How to use the Handler
 
-![123](https://media.discordapp.net/attachments/947378894137356398/947379065218826240/unknown.png?width=265&height=170)
+ **1.** Install [node.js v16+](https://nodejs.org/) or higher
 
-![123](https://media.discordapp.net/attachments/904265906224517131/947379388620623952/unknown.png?width=236&height=95)
+ **2.** Download this repo and unzip it    |    or git clone it
 
-![123](https://media.discordapp.net/attachments/947378350526201877/947380605409177620/unknown.png?width=1000&height=500)
+ **3.** Install all of the packages with **`npm install`**     |  the important packages are   **`npm install discord.js enmap`**
 
+ **4** Fill in the parameters, RIGHT in `config.json`!
 
-💪┃Setup
+ **5.** start the bot with **`node bot.js`**!
+  
+***
 
-📢|Moderation
+## [Discord Server 😎](https://dsc.gg/milanio.dev) | [Website](https://milaniodev.ml)
+<a href="https://dsc.gg/milanio.dev"><img src="https://discord.com/api/guilds/825260113509351454/widget.png?style=banner2"></a>
 
-🕹️|Fun
+***
 
-🪓|Mini Games
+## SUPPORT ME AND MILANIO DEVELOPMENT
 
-🎉┃Giveaway
+> You can always Support me by inviting one of my **own Discord Bots**
 
-✉|Ticket
+[Milanio](https://dsc.gg/milanio) | [Jerry Music](https://dsc.gg/jerry.milanio) | [Sound Wave](https://dsc.gg/sound.milanio)
 
-🔨┃Utility
+# Credits
 
-🚩|Report
-
-• **Makoto Just removed The music system its because Againts discord API Soo We remove it!**
+> If consider using this Code, make sure to credit me!

@@ -1,0 +1,36 @@
+{
+    "env": {
+        "TOKEN": "",
+        "PREFIX": "_",
+        "MongoDB_TOKEN": "",
+        "INVITE": "https://discord.com/oauth2/authorized",
+        "WEBSITE": "https://lernoxbot.netlify.app",
+        "google_API": "",
+        "google_Engine_id": "",
+        "spotify_clientID": "",
+        "spotify_clientSecret": "",
+        "news_API": "",
+        "giphy_API": ""
+    },
+    "music": {
+        "musicRequestImage": "",
+        "youtubeCookie": ""
+    },
+    "botlogs": {
+        "inviteLogs": "904265906224517131",
+        "feedbackChannel": "904265906224517131",
+        "bugChannel": "904265906224517131",
+        "suggestionChannel": "904265906224517131",
+        "commandLogsChannel": "904265906224517131",
+        "errorLogsChannel": "904265906224517131",
+        "premiumLogChannel": "904265906224517131"
+    },
+    "events": {
+        "Enable_debug": false
+    },
+    "Premium_Activator": "",
+    "ownerID": ["852712150601957428"],
+    "SlashCommandsGlobal": true,
+    "SlashCommand_Server_id": "",
+    "Enable_MongoDB": true
+}
