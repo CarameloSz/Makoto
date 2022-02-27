@@ -1,9 +1,9 @@
 ---
 name: Makoto Bot
-Fixed: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+Fixed: Added Mongo For DataBases
+Fixes: Rank UP And music system Removed **Againts DISCORD API** ''
+labels: MIT LICENSE''
+Version: esting 0.0,1 ''
 
 ---
 
