@@ -23,10 +23,10 @@
 |  Name              |      Version                              |
 | -------------      | ----------------------------------------- |
 | Removed `SoundCloud,Spotify,Youtube API`          | 0.1 ✔️                       |
-| Added `Shard`      | 0.11 Alpha ✔️   |
+| Added `Shard`      | 0.11 Full ✔️   |
 | Added Setup `Command`            | 0.1.1 ✔️              |
 | Added `Ksoft Api`       | 0.1.2 ✔️            |
-| Added New `Lavalink Port`            | 1.0 ✔️ Beta        |
+| Added `Anti Crash When The command Broken`            | 1.0 ✔️ Full        |
 | Soon               | Soon                 |
 | Soon             | Soon                     |
 | Soon             | Soon                 |
