@@ -90,12 +90,3 @@ function escapeRegex(str) {
     console.log(String(e.stack).grey.bgRed)
   }
 }
-
-
-/**
- * @INFO
- * Bot Coded by Zedro#2742 | https://discord.gg/8fYUFxMtAq
- * @INFO
- * Work for Milanio Development | https://discord.gg/8fYUFxMtAq
- * @INFO
- */
