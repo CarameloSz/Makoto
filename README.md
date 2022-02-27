@@ -1,7 +1,7 @@
-# Milanio
+# Makoto
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://dsc.gg/milanio.dev)
-> 💪 **Host on Repit:** [**Repl.it Fork**](https://replit.com/@Zedro2742/Milanio)
+
+
 
 ## Installation | How to use the Handler
 
@@ -20,14 +20,4 @@
 ## [Discord Server 😎](https://dsc.gg/milanio.dev) | [Website](https://milaniodev.ml)
 <a href="https://dsc.gg/milanio.dev"><img src="https://discord.com/api/guilds/825260113509351454/widget.png?style=banner2"></a>
 
-***
 
-## SUPPORT ME AND MILANIO DEVELOPMENT
-
-> You can always Support me by inviting one of my **own Discord Bots**
-
-[Milanio](https://dsc.gg/milanio) | [Jerry Music](https://dsc.gg/jerry.milanio) | [Sound Wave](https://dsc.gg/sound.milanio)
-
-# Credits
-
-> If consider using this Code, make sure to credit me!
