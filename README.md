@@ -22,10 +22,10 @@
 ## UPDATE
 |  Name              |      Version                              |
 | -------------      | ----------------------------------------- |
-| Removed `SoundCloud,Spotify,Youtube API`          | 0.1 ❌                       |
+| Removed `SoundCloud,Spotify,Youtube API`          | ❌                       |
 | Added `Shard`      | 0.11 Full ✔️   |
 | Added Setup `Command`            | 0.1.1 ✔️              |
-| Removed `Leveling Up System`       | 0.1.2 ❌            |
+| Removed `Leveling Up System`       | ❌            |
 | Added `Anti Crash When The command Broken`            | 1.0 Full ✔️         |
 | Removed `Music System`               | ❌                 |
 | Soon             | Soon                     |
